@@ -5,8 +5,8 @@ This project showcases how to interact with and perform CRUD operations across d
 
 ## Databases Used
 
-- **Astra DB** (Datastax Cassandra)
-- **Neon** (Serverless PostgreSQL)
+- **Astra DB** 
+- **Neon** 
 - **MySQL**
 - **MongoDB**
 - **Redis**
